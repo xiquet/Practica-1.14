@@ -1,0 +1,28 @@
+html {
+    background-color: antiquewhite;
+}
+h1.titulo {
+    color: maroon;
+    text-align: center;
+}
+
+
+
+p.cafe {
+    text-align: center;
+    
+}
+p.contactos {
+   text-align: right;
+    
+}
+p.letra{
+    color:maroon;
+}
+p.letracafe{
+    color:red;
+}
+p.contacto {
+    color: red;
+    font-size: 20px;
+}

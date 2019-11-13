@@ -26,3 +26,9 @@ p.contacto {
     color: red;
     font-size: 20px;
 }
+h2.letra {
+    color:maroon;
+}
+li.amarillo {
+    color: rgb(255, 166, 0);
+}
